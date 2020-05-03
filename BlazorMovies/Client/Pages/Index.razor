@@ -1,0 +1,29 @@
+﻿@page "/"
+@inject SingletonService singleton
+@inject TransientService transient
+@inject IRepository repository
+
+<p>Singleton count: @singleton.Value</p>
+<div>
+    <h3>Movie</h3>
+    <MoviesList Movies="movies" />
+</div>
+
+<button @onclick="AddNewMovie">Add new movie</button>
+
+@code
+{
+    private List<Movie> movies;
+
+    protected override void OnInitialized()
+    {
+        //await Task.Delay(2000);
+        base.OnInitialized();
+        movies = repository.GetMovies();
+    }
+
+    private void AddNewMovie()
+    {
+        movies.Add(new Movie() { Title = "Movie Sample", ReleaseDate = DateTime.Today });
+    }
+}

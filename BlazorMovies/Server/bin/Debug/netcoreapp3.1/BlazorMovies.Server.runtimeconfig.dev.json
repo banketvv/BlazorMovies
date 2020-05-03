@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\banke\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\banke\\.nuget\\packages"
+    ]
+  }
+}

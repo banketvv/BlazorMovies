@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\Client\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\wwwroot\" />
 </StaticWebAssets>

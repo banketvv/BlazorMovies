@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using BlazorMovies.Shared.Entities;
 using Microsoft.AspNetCore.Components;
+using Microsoft.JSInterop;
+using static BlazorMovies.Client.Shared.MainLayout;
 
 namespace BlazorMovies.Client.Pages
 {
@@ -11,7 +13,9 @@ namespace BlazorMovies.Client.Pages
     {
         [Inject] SingletonService singleton { get; set; }
         [Inject] TransientService transient { get; set; }
-
+        [Inject] IJSRuntime js { get; set; }
+        [CascadingParameter] public AppState AppState { get; set; }
+ 
         private List<Movie> movies;
         protected override void OnInitialized()
         {
@@ -25,11 +29,28 @@ namespace BlazorMovies.Client.Pages
         }
 
         private int currentCount = 0;
-        private void IncrementCount()
+        private static int currentCountStatic = 0;
+        
+        [JSInvokable]
+        public async Task IncrementCount()
         {
             currentCount++;
+            currentCountStatic++;
             singleton.Value = currentCount;
             transient.Value = currentCount;
+            await js.InvokeVoidAsync("dotnetStaticInvocation");
+        }
+
+        private async Task IncrementCountJavaScript()
+        {
+            await js.InvokeVoidAsync("dotnetInstanceInvocation",
+                DotNetObjectReference.Create(this));
+        }
+
+        [JSInvokable]
+        public static Task<int> GetCurrentCount()
+        {
+            return Task.FromResult(currentCountStatic);
         }
     }
 }

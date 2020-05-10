@@ -39,7 +39,7 @@ C:\Users\banke\.nuget\packages\microsoft.extensions.dependencyinjection.abstract
 C:\Users\banke\.nuget\packages\microsoft.extensions.options\3.1.2\lib\netstandard2.0\Microsoft.Extensions.Options.dll
 C:\Users\banke\.nuget\packages\microsoft.extensions.primitives\3.1.2\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll
 C:\Users\banke\.nuget\packages\microsoft.jsinterop\3.1.2\lib\netstandard2.0\Microsoft.JSInterop.dll
-C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\Shared\bin\Debug\netstandard2.1\BlazorMovies.Shared.dll
+C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Shared\bin\Debug\netstandard2.1\BlazorMovies.Shared.dll
 C:\Users\banke\.nuget\packages\microsoft.aspnetcore.components.webassembly\3.2.0-preview3.20168.3\lib\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
 C:\Users\banke\.nuget\packages\microsoft.extensions.dependencyinjection\3.1.2\lib\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\banke\.nuget\packages\microsoft.extensions.configuration\3.1.2\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll
@@ -51,4 +51,4 @@ C:\Users\banke\.nuget\packages\microsoft.extensions.filesystemglobbing\3.1.2\lib
 C:\Users\banke\.nuget\packages\microsoft.extensions.fileproviders.abstractions\3.1.2\lib\netstandard2.0\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\banke\.nuget\packages\microsoft.jsinterop.webassembly\3.2.0-preview3.20168.3\lib\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
 obj\Debug\netstandard2.1\BlazorMovies.Client.pdb
-C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\Shared\bin\Debug\netstandard2.1\BlazorMovies.Shared.pdb
+C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Shared\bin\Debug\netstandard2.1\BlazorMovies.Shared.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2USPAV9enTK4Rq83iqWjCMHWgfxTH4NmJTgmYZuXGiFizxQOlN0MyxD3qXXNEbso39YLUh/jxGRQxvkgZZ9PRA==",
+  "dgSpecHash": "p1MiNPCz0JHlvbpPjHkajvNOBF9JIyklTPVAW4MD5MADKuYjOYg1gzFwHz1mHTPUjOQZFgkTUGDUwd6h10KXig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\banke\\source\\repos\\BlazorMovies\\BlazorMovies\\Client\\BlazorMovies.Client.csproj",
+  "projectFilePath": "C:\\Users\\banke\\source\\repos\\BlazorMovies\\BlazorMovies\\BlazorMovies\\Client\\BlazorMovies.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\banke\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.2\\microsoft.aspnetcore.authorization.3.1.2.nupkg.sha512",
     "C:\\Users\\banke\\.nuget\\packages\\microsoft.aspnetcore.blazor.httpclient\\3.2.0-preview3.20168.3\\microsoft.aspnetcore.blazor.httpclient.3.2.0-preview3.20168.3.nupkg.sha512",

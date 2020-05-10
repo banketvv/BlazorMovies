@@ -1338,11 +1338,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\banke\\source\\repos\\BlazorMovies\\BlazorMovies\\Client\\BlazorMovies.Client.csproj",
+      "projectUniqueName": "C:\\Users\\banke\\source\\repos\\BlazorMovies\\BlazorMovies\\BlazorMovies\\Client\\BlazorMovies.Client.csproj",
       "projectName": "BlazorMovies.Client",
-      "projectPath": "C:\\Users\\banke\\source\\repos\\BlazorMovies\\BlazorMovies\\Client\\BlazorMovies.Client.csproj",
+      "projectPath": "C:\\Users\\banke\\source\\repos\\BlazorMovies\\BlazorMovies\\BlazorMovies\\Client\\BlazorMovies.Client.csproj",
       "packagesPath": "C:\\Users\\banke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\banke\\source\\repos\\BlazorMovies\\BlazorMovies\\Client\\obj\\",
+      "outputPath": "C:\\Users\\banke\\source\\repos\\BlazorMovies\\BlazorMovies\\BlazorMovies\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\banke\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1358,8 +1358,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\banke\\source\\repos\\BlazorMovies\\BlazorMovies\\Shared\\BlazorMovies.Shared.csproj": {
-              "projectPath": "C:\\Users\\banke\\source\\repos\\BlazorMovies\\BlazorMovies\\Shared\\BlazorMovies.Shared.csproj"
+            "C:\\Users\\banke\\source\\repos\\BlazorMovies\\BlazorMovies\\BlazorMovies\\Shared\\BlazorMovies.Shared.csproj": {
+              "projectPath": "C:\\Users\\banke\\source\\repos\\BlazorMovies\\BlazorMovies\\BlazorMovies\\Shared\\BlazorMovies.Shared.csproj"
             }
           }
         }

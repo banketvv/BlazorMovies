@@ -1,0 +1,35 @@
+﻿
+<div class="flex-container" style="width: 330px">
+    <div class="flex-row">
+        <img src=@OverridedUrl class="img-thumbnail" style="display: flex"/>
+    </div>
+    <form style="flex-direction: row; justify-content: space-between; float: left">
+        <div style="display: table-cell;">
+            <input type="url" placeholder="Enter image URL" class="nav-link" @bind="Url"/>
+        </div>
+        <div style="display: table-cell;">
+            <button class="btn btn-info" onclick="">Show</button>
+        </div>
+    </form>
+</div>
+
+@code {
+
+    [Parameter] public string Url { get; set; }
+    [Parameter] public string OverridedUrl
+    {
+        get
+        {
+            return Url == "" ? "question.jpg" : Url;
+        }
+        set
+        {
+            Url = value;
+        }
+    }
+
+    protected override void OnInitialized()
+    {
+        Url = "";
+    }
+}

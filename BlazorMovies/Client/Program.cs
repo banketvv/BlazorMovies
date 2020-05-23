@@ -16,7 +16,7 @@ namespace BlazorMovies.Client
             builder.RootComponents.Add<App>("app");
             ConfigureServices(builder.Services);
 
-            builder.Services.AddBaseAddressHttpClient();
+            //builder.Services.AddBaseAddressHttpClient();
 
             await builder.Build().RunAsync();
         }

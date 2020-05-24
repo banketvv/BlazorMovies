@@ -23,8 +23,6 @@ namespace BlazorMovies.Client
         public static void ConfigureServices(IServiceCollection services)
         {
             services.AddOptions(); //Authorization System
-            services.AddSingleton<SingletonService>();
-            services.AddTransient<TransientService>();
             services.AddTransient<IRepository, RepositoryInMemory>();
         }
     }

@@ -606,7 +606,6 @@ C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\De
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\oAIlpv09S-0jXnze744E1V88Oaw8Ql1x3Alw0hsVYdw=.hash
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\DG1MjidH81NA50uWH63eWmXLCxt18sJzoF2oXVlyvlY=.hash
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash
-C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\Rv7GfGMcfRwIZ-bh5VFtcxSVPCzMGSF-Z54h046Soyc=.hash
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\sifIvl02zqfSiv67ZRAsSa_NCvhMgTGrIUNuK8LmCNM=.hash
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\8Y81cOKaNJHZZvHu0TROikruBOenBHdE5WwI2BOkNNE=.hash
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\iUTfpj7A29tIp2gl2fLM_w1MwyI8XMmUV8gFe_mJBZI=.hash
@@ -618,7 +617,6 @@ C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\De
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\X3n9B0GKwWD1R7H_6ydrvoazqRQrQRjS_NH5VG6VJNY=.hash
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\zNP4aHLW-rhi6gW72YV8xGy1rLa_RQZtwvWEpiwBSrs=.hash
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
-C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\2WgjagBCUNTMu-CmVAyrGzTFLYdUMNZ9-grDm1oeKmA=.hash
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
@@ -687,6 +685,8 @@ C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\De
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.br
-C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\VL9AD-DtLfK-fiHMupuotFd-4kRbZS6rTv8eWGj6tWo=.hash
-C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\gaHUGlKbi4CvUZnEH4P52WrmeGBhTraAhHG3W-ObCiU=.hash
-C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\pDvwpW-4asCo4ufOKmvp-Gu6DHQ6FR6RtAs2uDiSzOA=.hash
+C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\8dfhjZgI3dMfG8_I_qDixNiQXzZlYqFHA_K7AN0bK2Q=.hash
+C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\giwb06-9NpwHQZXxIJek0xo6NJj20BGd20rcHyPouvg=.hash
+C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\ycgngE8mjG4l1wrkOezYS4ICibit46IqG_1_vyhhLGw=.hash
+C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\EvPqVLTErmMwkU6U0k2wWHBZhY7zy1eKrUG4iV85gso=.hash
+C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\bZYh6XV_2HJXYWo_hvb3vg61uRB4oUoJo9Iyfx-vq18=.hash

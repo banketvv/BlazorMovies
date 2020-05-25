@@ -1,9 +1,9 @@
 ﻿
 <div class="individual-movie-container">
-    <a>
+    <a href="@movieUrl">
         <img src="@Movie.Poster" alt="Poster" class="movie-poster" />
     </a>
-    <p>@Movie.TitleBrief</p>
+    <p><a href="@movieUrl">@Movie.TitleBrief</a></p>
     <div>
         <a class="btn btn-info">Edit</a>
         <button type="button" class="btn btn-danger"
@@ -16,4 +16,12 @@
 @code {
     [Parameter] public Movie Movie { get; set; }
     [Parameter] public EventCallback<Movie> DeleteMovie { get; set; }
+    private string movieUrl = string.Empty;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        movieUrl = $"movie/";
+
+    }
 }

@@ -11,8 +11,8 @@ C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Shared\bin\De
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Shared\bin\Debug\netstandard2.1\BlazorMovies.Shared.dll
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Shared\bin\Debug\netstandard2.1\BlazorMovies.Shared.pdb
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.csprojAssemblyReference.cache
-C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.csproj.CoreCompileInputs.cache
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.AssemblyInfoInputs.cache
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.AssemblyInfo.cs
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.dll
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.pdb
+C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Shared\obj\Debug\netstandard2.1\BlazorMovies.Shared.csproj.CoreCompileInputs.cache

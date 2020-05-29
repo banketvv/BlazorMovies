@@ -21,7 +21,7 @@
     protected override void OnInitialized()
     {
         base.OnInitialized();
-        movieUrl = $"movie/";
+        movieUrl = $"movie/{Movie.Id}/{Movie.Title.Replace(" ", "-")}";
 
     }
 }

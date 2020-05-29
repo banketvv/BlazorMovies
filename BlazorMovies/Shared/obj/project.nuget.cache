@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZY2xZ3rF/ET4c8Eg8QYvOWo6y1Z36bs+z3tOryeXoMcmXWhIZS6goECy2xpvt7+45dv3D2GCw7/RB2RpTHO5zw==",
+  "dgSpecHash": "Mwh/DL3laxJtX0EW8qp6RqhQrmmUcoBHM9ll7wmIpxSr/1PSJXCPxMYTeElB+VVVr1gVP/NDZyL+Sqm+fEiMWQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\banke\\source\\repos\\BlazorMovies\\BlazorMovies\\BlazorMovies\\Shared\\BlazorMovies.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\banke\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -705,8 +705,10 @@ C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\De
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Genres\IndexGenres.razor.g.cs
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\People\IndexPeople.razor.g.cs
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\People\IndexPeople.razor.g.cs
-C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\92c5zScnmHlCFlbIM7S3G-iKJNjokgmjY3URfLECQ2Y=.hash
-C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\YlMZ8L-rwRazdZt7CHc1g64iWHzlUIih-QbUkjeVquQ=.hash
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\rPv1gDXhJVUtY_UeOGwXbHF9Im79ux2ZYRFfdpXXIAI=.hash
 C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\GhNhdBNitD87Mo2f47CqgAiLcfgAjNK5U99ExOkxpRs=.hash
-C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\ywSh3jiLJLulMxExrPmvQ7GNncNbVAecGchzh_24yf0=.hash
+C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Genres\GenreForm.razor.g.cs
+C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Genres\GenreForm.razor.g.cs
+C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\mR1MFtEMMZhkb6aKLOo0OqjI37pvRqJb_mEvTPQGiak=.hash
+C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\Ovov5ogldsUQ90Ke3WjaumAWUY4yQ73HBp2s1ugH7pM=.hash
+C:\Users\banke\source\repos\BlazorMovies\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\integrity\1z3f6P_PSsZbQhpXOa6PZz3LDpjuZVIdTAv7agSE2rg=.hash
